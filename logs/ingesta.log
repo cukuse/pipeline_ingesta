@@ -1,0 +1,7 @@
+2026-05-08 15:45:31,422 - INFO - Iniciando ingesta: datos_prueba.csv
+2026-05-08 15:45:31,423 - INFO - [OK] Archivo copiado a: data/raw\datos_prueba.csv
+2026-05-08 15:48:29,901 - INFO - Iniciando ingesta: datos_prueba.csv
+2026-05-08 15:48:29,903 - INFO - [OK] Archivo copiado a: data/raw\datos_prueba.csv
+2026-05-08 15:49:30,863 - INFO - Iniciando ingesta: datos_prueba.csv
+2026-05-08 15:49:30,864 - INFO - [OK] Archivo copiado a: data/raw\datos_prueba.csv
+2026-05-08 15:49:30,864 - INFO - Ingesta completada.
